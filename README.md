@@ -536,4 +536,4 @@ Here are some common issues you might encounter and how to resolve them:
     *   **Consult Documentation:** Refer to the [Label Studio documentation](https://labelstud.io/guide/) and [Ultralytics YOLOv8 documentation](https://docs.ultralytics.com/) for more detailed information.
 
 ## 9. Conclusion
-(Summary and final thoughts)
+Now you on your own!!!
