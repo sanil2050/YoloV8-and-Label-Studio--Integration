@@ -23,7 +23,11 @@ This guide provides a comprehensive, step-by-step approach to installing and con
 9. [Conclusion](#conclusion)
 
 ## 1. Introduction
-(Brief overview of Label Studio, YOLOv8, and the benefits of pre-annotation)
+Label Studio is a versatile, open-source data labeling tool used to annotate various data types, including images, text, and audio. It's highly customizable and supports a wide range of labeling tasks.
+
+YOLOv8 is the latest iteration of the "You Only Look Once" family of models, renowned for its high performance in real-time object detection.
+
+Benefits of Pre-annotation: Integrating YOLOv8 with Label Studio allows for pre-annotation, where the model automatically generates initial labels on the data. This significantly accelerates the labeling workflow by allowing human annotators to simply review and correct machine-generated labels rather than creating them from scratch, leading to faster project completion and improved annotation consistency.
 
 ## 2. Prerequisites
 
