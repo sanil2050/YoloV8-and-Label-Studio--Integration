@@ -1,0 +1,1 @@
+# YoloV8-and-Label-Studio--Integration
